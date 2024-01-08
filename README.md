@@ -8,7 +8,7 @@ I'm a data scientist with a passion for turning raw data into actionable insight
 
 - 📫 How to reach me **Anika.I.Aishwarja@student.uts.edu.au**
 
-- 📄 Know about my experience : <a href="https://docs.google.com/document/d/1DkejDIcyZ9JhARfK_SrHJs-yFFWfNuhM/edit?usp=sharing&ouid=107465898541430718165&rtpof=true&sd=true" target="blank"> Click here to see my resume </a>
+- 📄 Know about my experience : <a href="https://drive.google.com/file/d/1rU4q2uuKsOAnH8fbXfs0hcJJZ9Wgssu3/view?usp=sharing" target="blank"> Click here to see my resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
