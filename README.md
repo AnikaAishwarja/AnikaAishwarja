@@ -6,7 +6,7 @@ I'm a data scientist with a passion for turning raw data into actionable insight
 
 - 📈 I’m expert in visualisation (Tableau, PowerBI), SQL
 
-- 📫 How to reach me **anika.i.aishwarja@student.uts.edu.au**
+- 📫 How to reach me **Anika.I.Aishwarja@student.uts.edu.au**
 
 - 📄 Know about my experience : <a href="https://drive.google.com/file/d/1pC5yw7dAiEFB02wDzA2BknRa6bv713lh/view?usp=sharing" target="blank"> Click here to see my resume </a>
 
